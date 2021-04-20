@@ -1,16 +1,21 @@
-### Hi there 👋
+## Fala galera, tranquilo! 👋
 
-<!--
-**matheuscostadesign/matheuscostadesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matheus Costa 👊
 
-Here are some ideas to get you started:
+- 💻 &nbsp; Desenvolvedor Frontend e UX/UI Designer na Proansi Tecnologia
+- 🎓 &nbsp; Graduado em Informática para Negócios - Fatec
+- 🏡 &nbsp; São José do Rio Preto/SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias:
+
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+### 🤝🏻 &nbsp; Entre em contato comigo!
+
+<a href="https://www.linkedin.com/in/mattheuscosta/" target="_blank"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-matheuscostadosantos@hotmail.com-D14836?style=flat-square&logo=Outlook&logoColor=white"/></a>
