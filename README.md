@@ -17,5 +17,5 @@
 
 ### 🤝🏻 &nbsp; Entre em contato comigo!
 
-<a href="https://www.linkedin.com/in/mattheuscosta/" target="_blank"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-matheuscostadosantos@hotmail.com-D14836?style=flat-square&logo=Outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mattheuscosta/" target="_blank"><img src="https://img.shields.io/badge/-Matheus%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:matheuscostadosantos@hotmail.com"><img src="https://img.shields.io/badge/-matheuscostadosantos@hotmail.com-D14836?style=flat-square&logo=Outlook&logoColor=white"/></a>
