@@ -17,6 +17,6 @@
 
 ### Entre em contato comigo!
 
-<a target="_blank" href="https://www.linkedin.com/in/mattheuscosta/"><img src="https://img.shields.io/badge/-Matheus%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matheuscostadosantos@hotmail.com"><img src="https://img.shields.io/badge/-matheuscostadosantos@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/mattheuscosta/"><img src="https://img.shields.io/badge/-Matheus%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/matheuscostadesign"><img src="https://img.shields.io/badge/-@matheuscostadesign-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
