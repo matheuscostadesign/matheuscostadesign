@@ -1,6 +1,6 @@
-### Fala galera, tranquilo! 👋
+### Fala galera, tranquilo! 👊
 
-## Matheus Costa 👊
+## Matheus Costa 
 
 - 💻 &nbsp; Desenvolvedor Frontend e UX/UI Designer na Proansi Tecnologia
 - 🎓 &nbsp; Graduado em Informática para Negócios - Fatec
