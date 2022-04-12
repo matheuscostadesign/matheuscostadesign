@@ -1,6 +1,6 @@
 ## Matheus Costa 👊
 
-- 💻 &nbsp; Desenvolvedor Frontend e UX/UI Designer na **[Proansi Tecnologia](http://proansi.com.br)**
+- 💻 &nbsp; Desenvolvedor Frontend e UI Designer na **[Proansi Tecnologia](http://proansi.com.br)**
 - 🎓 &nbsp; Graduado em Informática para Negócios - Fatec
 - 🏡 &nbsp; São José do Rio Preto/SP
 
