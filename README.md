@@ -1,6 +1,6 @@
 ## Matheus Costa 👊
 
-- 💻 &nbsp; UX/UI Designer e Desenvolvedor Frontend na **[Proansi Tecnologia](http://proansi.com.br)**
+- 💻 &nbsp; UX/UI Designer e Desenvolvedor Front-end na **[Proansi Tecnologia](http://proansi.com.br)**
 - 🎓 &nbsp; Estudando especialização em UX Design pelo Senac e graduado em Informática para Negócios pela Fatec
 - 🏡 &nbsp; São José do Rio Preto/SP
 
